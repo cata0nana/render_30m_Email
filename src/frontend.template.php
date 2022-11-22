@@ -101,6 +101,8 @@
              });
          });
       </script> -->
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4438661758143218"
+     crossorigin="anonymous"></script>
       <script>
          function myFunction() {
              if(!$("#contact").hasClass('show')) {
